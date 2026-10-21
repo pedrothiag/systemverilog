@@ -1,0 +1,73 @@
+|somador4b
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+cin => cin.IN1
+s[0] << fulladder:fa0.s
+s[1] << fulladder:fa1.s
+s[2] << fulladder:fa2.s
+s[3] << fulladder:fa3.s
+cout << fulladder:fa3.co
+
+
+|somador4b|fulladder:fa0
+a => s.IN0
+a => co.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+b => co.IN0
+ci => s.IN1
+ci => co.IN1
+ci => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|somador4b|fulladder:fa1
+a => s.IN0
+a => co.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+b => co.IN0
+ci => s.IN1
+ci => co.IN1
+ci => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|somador4b|fulladder:fa2
+a => s.IN0
+a => co.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+b => co.IN0
+ci => s.IN1
+ci => co.IN1
+ci => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|somador4b|fulladder:fa3
+a => s.IN0
+a => co.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+b => co.IN0
+ci => s.IN1
+ci => co.IN1
+ci => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/souza
+vfulladder
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1791979146
+!i10b 1
+!s100 YRNR?Cg2;XQkX9Nj]f8;a1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^?^gnYVze:7JaMonzR96T0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 d/run/media/souza/DADOS/Codigos/systemverilog/projeto-03
+w1791978917
+8/run/media/souza/DADOS/Codigos/systemverilog/projeto-03/fulladder.sv
+F/run/media/souza/DADOS/Codigos/systemverilog/projeto-03/fulladder.sv
+!i122 0
+L0 1 7
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1791979146.000000
+!s107 /run/media/souza/DADOS/Codigos/systemverilog/projeto-03/fulladder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/run/media/souza/DADOS/Codigos/systemverilog/projeto-03/fulladder.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vsomador4b
+R0
+R1
+!i10b 1
+!s100 _5^cOIKIbk7G[<jL9DQWJ1
+R2
+IQnzHXV0[Odz7fzzGFjX1^1
+R3
+S1
+R4
+w1791978914
+8/run/media/souza/DADOS/Codigos/systemverilog/projeto-03/somador4b.sv
+F/run/media/souza/DADOS/Codigos/systemverilog/projeto-03/somador4b.sv
+!i122 1
+L0 1 12
+R5
+r1
+!s85 0
+31
+R6
+!s107 /run/media/souza/DADOS/Codigos/systemverilog/projeto-03/somador4b.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/run/media/souza/DADOS/Codigos/systemverilog/projeto-03/somador4b.sv|
+!i113 1
+R7
+R8
