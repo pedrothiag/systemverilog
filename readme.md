@@ -31,7 +31,7 @@ Os roteiros em PDF propõem atividades de implementação em SystemVerilog na FP
 
 ## Slides
 
-Os [slides de SystemVerilog](docs/slides/systemverilog.pdf) apresentam dispositivos lógicos programáveis e o fluxo de projeto de hardware. Depois, abordam a estrutura de módulos, portas e tipos de dados; descrições por fluxo de dados e por hierarquia; operadores e expressões; descrições comportamentais; máquinas de estados; e uma introdução à verificação com testbenches. O material também traz exercícios de projeto ao longo da apresentação.
+Os [slides de SystemVerilog](docs/slides/systemverilog.pdf) apresentam o referêncial teórico para a disciplina.
 
 ## Documentação da FPGA
 
